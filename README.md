@@ -46,7 +46,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/QuG5nyF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-[Admin Panel -> Agents -> Teams] Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
+[Admin Panel -> Agents -> Departments] Departments serve as organizational units that help categorize and route support tickets to specific teams or individuals within an organization, streamlining the ticket management process based on different functional areas or expertise.
 </p>
 <br />
 
